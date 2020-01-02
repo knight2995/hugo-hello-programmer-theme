@@ -16,6 +16,9 @@ other = "Menu"
 [menuSearchKeyword]
 other = "Keyword"
 
+[menuResume]
+other = "Resume"
+
 [menuOgDescPostfix]
 other = "read this article."
 
